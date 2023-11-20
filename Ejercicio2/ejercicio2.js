@@ -18,7 +18,7 @@ function Multiplicacion(multiplicador, multiplicando){
         
         alert(Suma);
 
-    } else if(multiplicador == 0 || multiplicando == 0 ) { 
+    } else if(multiplicador == 0) { 
             alert("La suma no se repetira");
     } else {
         alert("No has ingresado un valor");
